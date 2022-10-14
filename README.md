@@ -19,3 +19,17 @@ Go into the repository directory and run
 ``python experiments.py``
 
 This will run all the experiments and reproduce the figures. Slight deviations might be due to differently initialized weights in the neural networks.
+
+Note: To use the DGL library, you additionally have to place a config file in 
+
+``~\.dgl\config.json``
+
+containing only the line 
+``{"backend":"tensorflow"}``
+
+There might be an error if the environment was installed with a wrong version of a package.
+https://stackoverflow.com/questions/72441758/typeerror-descriptors-cannot-not-be-created-directly
+
+run 
+``pip install protobuf==3.20.*``
+in that case.
