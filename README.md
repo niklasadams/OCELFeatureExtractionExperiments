@@ -2,7 +2,36 @@
 
 ### Jan Niklas Adams, Gyunam Park, Sergej Levich, Daniel Schuster, Wil van der Aalst
 
+If you find the provided code or the corresponding paper useful, please consider citing the paper:
+``` {.text}
+@InProceedings{10.1007/978-3-031-20984-0_3,
+author="Adams, Jan Niklas
+and Park, Gyunam
+and Levich, Sergej
+and Schuster, Daniel
+and van der Aalst, Wil M. P.",
+editor="Troya, Javier
+and Medjahed, Brahim
+and Piattini, Mario
+and Yao, Lina
+and Fern{\'a}ndez, Pablo
+and Ruiz-Cort{\'e}s, Antonio",
+title="A Framework for Extracting and Encoding Features from Object-Centric Event Data",
+booktitle="Service-Oriented Computing",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="36--53",
+isbn="978-3-031-20984-0"
+}
+```
+
+The paper is available at: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20984-0_3)
+
 To get an up-to-date version of the python library used please visit ocpa.readthedocs.io
+_____________
+
+### Instructions
 
 Please first use anaconda prompt to create the environment.
 
