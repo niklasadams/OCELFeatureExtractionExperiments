@@ -4,26 +4,27 @@
 
 If you find the provided code or the corresponding paper useful, please consider citing the paper:
 ``` {.text}
-@InProceedings{10.1007/978-3-031-20984-0_3,
-author="Adams, Jan Niklas
-and Park, Gyunam
-and Levich, Sergej
-and Schuster, Daniel
-and van der Aalst, Wil M. P.",
-editor="Troya, Javier
-and Medjahed, Brahim
-and Piattini, Mario
-and Yao, Lina
-and Fern{\'a}ndez, Pablo
-and Ruiz-Cort{\'e}s, Antonio",
-title="A Framework for Extracting and Encoding Features from Object-Centric Event Data",
-booktitle="Service-Oriented Computing",
-year="2022",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="36--53",
-doi="10.1007/978-3-031-20984-0_3",
-isbn="978-3-031-20984-0"
+@inproceedings{AdamsFeaturesOCEL10.1007/978-3-031-20984-0_3,
+  author    = {Jan Niklas Adams and
+               Gyunam Park and
+               Sergej Levich and
+               Daniel Schuster and
+               Wil M. P. van der Aalst},
+  editor    = {Javier Troya and
+               Brahim Medjahed and
+               Lina Yao and
+               Pablo Fern{\'a}ndez and
+               Antonio Ruiz-Cort{\'e}s},
+  title     = {A Framework for Extracting and Encoding Features from Object-Centric Event Data},
+  booktitle = {Service-Oriented Computing - 20th International Conference, {ICSOC}
+               2022, Sevilla, Spain, November 29- December 2, 2022, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13740},
+  pages     = {36--53},
+  publisher = {Springer},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-20984-0_3},
+  doi       = {10.1007/978-3-031-20984-0_3},
 }
 ```
 
